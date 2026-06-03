@@ -1,6 +1,6 @@
-# 🚲 Bike Rental Demand Prediction
+# Bike Rental Demand Prediction
 
-## 📋 Project Overview
+## Project Overview
 
 Capital Bikeshare operates more than **8,000 bicycles across over 800 stations**, creating a complex operational challenge. Without accurate demand prediction, the company faces:
 
@@ -11,7 +11,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 🎯 Business Objectives
+## Business Objectives
 
 | Objective | Description |
 |-----------|-------------|
@@ -22,7 +22,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 **Source**: Capital Bikeshare historical data (2011–2012)  
 **Records**: 12,165 hourly observations  
@@ -42,7 +42,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 🔍 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### Key Insights:
 
@@ -62,7 +62,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 🧠 Modeling Approach
+## Modeling Approach
 
 ### Models Evaluated
 
@@ -83,7 +83,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 📈 Final Model Performance
+## Final Model Performance
 
 ### Test Set Results
 
@@ -116,7 +116,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 💰 Business Impact & Cost-Benefit Analysis
+## Business Impact & Cost-Benefit Analysis
 
 ### Cost Assumptions
 
@@ -138,7 +138,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 📋 Actionable Recommendations
+## Actionable Recommendations
 
 ### 1. Dynamic Inventory Management
 
@@ -168,7 +168,7 @@ This project develops a machine learning model to predict hourly bike rental dem
 
 ---
 
-## 📊 Conclusion
+## Conclusion
 
 The XGBoost model delivers **strong predictive performance** with **85.2% accuracy** (R²) and a **Mean Absolute Error of 45 bikes per hour**. This translates to an estimated **$340,000 in annual savings** through improved demand forecasting.
 
